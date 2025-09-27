@@ -108,5 +108,6 @@ This solution will empower farmers with scientifically-backed, localized advisor
 - **Studies on ICT-based agriculture advisories**: ICT-based advisories have been shown to increase crop yield by 20–30%.
 - **International Journal of Agricultural Science and Technology**: Use of AI in agriculture for pest detection and crop recommendation.
 
+<img width="1536" height="1024" alt="f9567b7a-f8b1-46a6-9144-ab21fd3867ef" src="https://github.com/user-attachments/assets/0a6c29f5-6944-414e-b660-e4be5993e70a" />
 
 
